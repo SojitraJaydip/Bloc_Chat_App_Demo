@@ -1,0 +1,92 @@
+{
+  "project_info": {
+    "project_number": "250443215384",
+    "project_id": "chat-application-bloc",
+    "storage_bucket": "chat-application-bloc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:250443215384:android:bc864934327bc68f12496d",
+        "android_client_info": {
+          "package_name": "com.app.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "250443215384-4l1gngm8obpcbubhphmsv46au03u91gb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.chat",
+            "certificate_hash": "8ce1759f95b9c45a746b12de28d75b9271f17e07"
+          }
+        },
+        {
+          "client_id": "250443215384-j3bafh2eb943s0ftdlbsbmjca99n8kq1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsLNuTu9aRCG0lh5qMq9E0k1-_nmKJvM4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "250443215384-j3bafh2eb943s0ftdlbsbmjca99n8kq1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:250443215384:android:a36eaeea3d9140d312496d",
+        "android_client_info": {
+          "package_name": "com.app.messio.messio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "250443215384-ghdh6fekv57p70pdjldpvnmate7hlmre.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.messio.messio",
+            "certificate_hash": "8ce1759f95b9c45a746b12de28d75b9271f17e07"
+          }
+        },
+        {
+          "client_id": "250443215384-hn07p1thhrbonfi148h3dg0tftirr22r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.messio.messio",
+            "certificate_hash": "fde98c7d1592172cf0d51f0f0032464c68ff86f7"
+          }
+        },
+        {
+          "client_id": "250443215384-j3bafh2eb943s0ftdlbsbmjca99n8kq1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsLNuTu9aRCG0lh5qMq9E0k1-_nmKJvM4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "250443215384-j3bafh2eb943s0ftdlbsbmjca99n8kq1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
